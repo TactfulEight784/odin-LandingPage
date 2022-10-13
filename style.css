@@ -17,6 +17,9 @@ body{
     margin: 0;
     font-family: 'roboto';
 }
+p {
+    margin: auto;
+}
 .headerOne{
     color: #F9FAF8;
     font-size: 24px;
@@ -40,4 +43,9 @@ a{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    width: 375px;
+}
+button{
+    width: 100px;
+    padding: 6px;
 }
