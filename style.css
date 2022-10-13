@@ -48,4 +48,5 @@ a{
 button{
     width: 100px;
     padding: 6px;
+    border-radius: 6px;
 }
