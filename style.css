@@ -1,0 +1,9 @@
+.containerHeaderOne{
+    display: flex;
+    justify-content: space-between;
+}
+.headerLinks{
+    display: flex;
+    gap: 10px;
+    list-style:none;
+}
