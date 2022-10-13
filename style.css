@@ -27,7 +27,8 @@ p {
 a{
     text-decoration: none;
 }
-.headerLink{
+.headerLink, .heroSubText{
+    font-size: 18px;
     color: #E5E7EB;
 }
 .heroContainer{
