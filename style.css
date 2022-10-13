@@ -53,3 +53,8 @@ button{
     border-radius: 6px;
     background-color: #3882F6;
 }
+.heroHeader{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
