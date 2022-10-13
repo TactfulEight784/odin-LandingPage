@@ -1,9 +1,22 @@
 .containerHeaderOne{
     display: flex;
     justify-content: space-between;
+    background-color: #1F2937;
 }
 .headerLinks{
     display: flex;
     gap: 10px;
     list-style:none;
+}
+body{
+    margin: 0;
+}
+.headerOne{
+    color: #F9FAF8;
+}
+a{
+    text-decoration: none;
+}
+.headerLink{
+    color: #E5E7EB;
 }
