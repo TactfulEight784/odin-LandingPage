@@ -33,11 +33,13 @@ a{
 .heroContainer{
     display: flex;
     justify-content: center;
+    background-color: #1F2937;
 }
 .heroImage{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: gray;
 }
 .heroContent{
     display: flex;
@@ -49,4 +51,5 @@ button{
     width: 100px;
     padding: 6px;
     border-radius: 6px;
+    background-color: #3882F6;
 }
