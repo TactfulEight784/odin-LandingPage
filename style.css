@@ -128,9 +128,11 @@ img {
     justify-content: center;
     align-items: center;
     height: 300px;
+    color: #F9FAF8;
 }
 .button2{
     border: 2px solid white;
+    color: #F9FAF8;
 }
 .section4ContentContainer{
     display: flex;
