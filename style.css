@@ -123,3 +123,23 @@ img {
     flex-direction: row-reverse;
     width: 700px;
 }
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.button2{
+    border: 2px solid white;
+}
+.section4ContentContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    width: 900px;
+    height: 150px;
+}
+.section4Header{
+    font-size: 24px;
+}
