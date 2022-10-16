@@ -70,3 +70,12 @@ button{
 .heroSubText{
     margin-bottom: 10px;
 }
+.section2Header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 20px;
+}
