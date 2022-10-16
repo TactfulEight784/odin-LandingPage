@@ -79,3 +79,7 @@ button{
     color: #1F2937;
     padding: 20px;
 }
+img {
+    width: 150px;
+    border: #3882F6;
+}
