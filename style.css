@@ -103,3 +103,23 @@ img {
 .imagesUl{
     display: flex;
 }
+.section3Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    flex-direction: column;
+    height: 350px;
+}
+.quote{
+    display: flex;
+    width: 850px;
+    font-size: 36px;
+    font-style: italic;
+}
+.quotePerson{
+    display: flex;
+    font-weight: bold;
+    flex-direction: row-reverse;
+    width: 700px;
+}
